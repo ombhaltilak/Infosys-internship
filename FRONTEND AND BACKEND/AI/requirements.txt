@@ -1,0 +1,12 @@
+Flask
+ultralytics
+easyocr
+pandas
+os
+zipfile
+opencv-python  # cv2
+flask-cors  # CORS
+torch
+logging
+shutil
+openpyxl

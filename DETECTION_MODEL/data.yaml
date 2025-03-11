@@ -1,0 +1,9 @@
+# Example data.yaml
+path: C:\Users\om\Desktop\INFOSYS_INTERNSHIP\DETECTION_MODEL\dataset  # Root dataset path
+train: images/train  # Relative to `path`
+val: images/val       # Relative to `path`
+test:  # Optional
+
+# Number of classes and names
+nc: 3
+names: ["name", "uid", "address"]
